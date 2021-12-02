@@ -1,0 +1,8 @@
+#img-bg{
+    background-image: url(https://www.licenciamentobrasil.com.br/wp-content/uploads/2019/04/cadastro2.jpg);
+    min-height: 990px;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:  cover;
+}
